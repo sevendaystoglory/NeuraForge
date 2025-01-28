@@ -87,7 +87,7 @@ const Header = () => {
                     </div>
                 </nav>
 
-                <Button className="hidden lg:flex" href="#try-platform">
+                <Button className="hidden lg:flex" href="https://mrm-client.neuraforge.xyz/">
                     Try out the platform
                 </Button>
 

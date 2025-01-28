@@ -64,7 +64,7 @@ const Hero = () => {
                     </h1>
                     <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">Used by quants and financial analysts in some of the largest global banks</p>
                     <div className="flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
-                        <Button href="#modelsense" white>
+                        <Button href="https://mrm-client.neuraforge.xyz/" white>
                             Get started
                         </Button>
                         <Button href="#modelsense" className="bg-n-6 hover:bg-n-5 transition-colors">
